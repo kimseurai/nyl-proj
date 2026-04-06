@@ -39,3 +39,5 @@ backendbuild/
 
 ### VS Code ###
 .vscode/
+
+**/mydb.sqlite
