@@ -1,0 +1,38 @@
+.claims-card, .claims-list {
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+}
+
+.claims-text {
+    color: #fff;
+    background-color: #000a62;
+    padding: 4rem;
+}
+
+.claims-list h1 {
+    margin-left: 40px;
+}
+
+.cards-container {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    width: 90%;
+}
+
+.claims-asset {
+     flex-basis: 50%;
+     width: 50%;
+}
+
+.claims-list {
+    display: block;
+}
+
+.cards-container li {
+    list-style-type: none;
+    border: 2px solid #ddd;
+    padding: 1rem;
+    width: 33%;
+}
